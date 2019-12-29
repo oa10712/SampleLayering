@@ -1,0 +1,6 @@
+item.gold_lure.name=Golden Lure (%s)
+item.silver_lure.name=Silver Lure (%s)
+
+samplelayers.type.water=Water
+samplelayers.type.fire=Fire
+samplelayers.type.grass=Grass

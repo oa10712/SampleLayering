@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "SampleLayers",
+    "name": "SampleLayers",
+    "description": "A Sample mod made to show off greyscale image coloring",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Oa10712"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
