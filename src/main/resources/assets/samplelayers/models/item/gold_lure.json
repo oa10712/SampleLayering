@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "samplelayers:items/lure_gold",
-        "layer1": "samplelayers:items/lure_back"
-    }
-}
